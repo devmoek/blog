@@ -1,0 +1,25 @@
+main {
+    color: "#232129";
+    padding: 96px;
+    font-family: "Montserrat";
+}
+
+header {
+    display: flex;
+}
+
+header h1 {
+    margin-left: 1em;
+}
+
+.posts {
+    display: flex;
+    align-items: center;
+}
+
+.post {
+    margin-right: 20px;
+    text-align: center;
+    flex-direction: column;
+    display: flex;
+}
